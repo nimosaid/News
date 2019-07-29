@@ -48,7 +48,7 @@ You need the following to start working on the project on your local computer:
 ```
 * Run ```chmod +x start.sh``` follwoed by ``` ./start.sh ``` while in the project folder to start the project.
 * Once started, the project can be accessed on your localhost using the address: ``` localhost:5000 ```.
-* Alternatively the application can be accessed by visiting 
+* Alternatively the application can be accessed by visiting
 
 ## Technologies Used
 
@@ -60,7 +60,7 @@ You need the following to start working on the project on your local computer:
 
 MIT License
 
-Copyright (c) 2018 Peter Polle
+Copyright (c) 2018 Nimo Said
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
