@@ -20,6 +20,8 @@ Catco Worldwide is a web appliction that displays a list of news sources from ar
 * See Image description and time the news article was created.
 * Click on an article and read it fully from the news source
 
+-----------------
+
 ## Specifications
 | Behaviour | Input | Output |
 | :---------------- | :---------------: | ------------------: |
