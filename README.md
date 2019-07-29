@@ -46,6 +46,8 @@ You need the following to start working on the project on your local computer:
 -A text  Editor
 ```
 
+--------------
+
 ## Getting Started
 
 * Clone this repository to your local computer.
